@@ -1,4 +1,4 @@
-Bu yazılım, bir CSV dosyasında yer alan not bilgisini öğrenciye özel olarak göndermek için geliştirilmiştir.  CSV Dosyası aşağıdaki formatta hazırlanmıştır. 
+Bu yazılım, bir CSV dosyasında yer alan not bilgisini, e-posta ile öğrenciye özel olarak göndermek için geliştirilmiştir.  CSV Dosyası aşağıdaki formatta hazırlanmıştır. Biz yine bu dosyada yer alan öğrenci e-posta adresini kullanacağız.
 
 ÖĞRENCİ NO, ADI, SOYADI, EPOSTA, 1.VİZE, 2.VİZE
 
