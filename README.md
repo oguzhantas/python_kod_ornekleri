@@ -42,14 +42,23 @@ NOTLAR:
 durumunda veya yönetmelikte yazan bazı durumlarda öğrenci bu dersi tekrar edebilir.
 
 AA =>4    =>(86-100 arası)        =>Geçti
+
 BA =>3.5  =>(80-85 arası)         =>Geçti
+
 BB =>3    =>(70-79 arası)         =>Geçti
+
 CB =>2.5  =>(60-69 arası)         =>Geçti
+
 CC =>2    =>(46-59 arası)         =>Geçti
+
 DC =>1.5  =>(40-45 arası)         =>Şartlı Geçti
+
 DD =>1    =>(33-39 arası)         =>Şartlı Geçti
+
 FF =>0    =>(0-32 arası)          =>Kaldı
+
 DZ => Devamsız Başarısız(Finale gelmeyen)   =>Kaldı
+
 
 2) Bu e-posta Python ile yeni geliştirilen bir yazılımın test amaçlı gönderimidir.
 Eksik veya yanlış bir bilgi varsa oguzhan.tas@istinye.edu.tr adresine bildiriniz.
