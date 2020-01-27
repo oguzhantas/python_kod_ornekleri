@@ -13,17 +13,8 @@ Kodlar Ubuntu Linux üzerinde test edilmiştir.  Örnek CSV dosyası verilmişti
 Öğrencinize aşağıdaki gibi bir e-mail gidecektir.
 
 
-
-
-
-
 ÖRNEK E-MAİL ÇIKTISI:
-
-Oguzhan TAS, ISU <oguzhan.tas@istinye.edu.tr>
-	
-16:30 (5 dakika önce)
-	
-Alıcı: ben
+===========================================
 Sayın Oğuzhan Taşkent,
 
 Quiz Notunuz: 88
